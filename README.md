@@ -5,7 +5,7 @@
 | Project Name | Github Repo | Link |
 | :--- | :----: | :----: |
 | Portfolio| [https://github.com/sahilpatel1906/Sahil-Portfolio](https://github.com/sahilpatel1906/Sahil-Portfolio) | [https://sahil-portfolio-ak4m.vercel.app/](https://sahil-portfolio-ak4m.vercel.app/) |
-| F1 Website Frontend| [( https://github.com/onlysilvercrow/f1_website)](https://github.com/onlysilvercrow/f1_website) | [https://ambitious-pebble-02008e903.2.azurestaticapps.net/](https://ambitious-pebble-02008e903.2.azurestaticapps.net/) |
+| F1 Website Frontend| [https://github.com/onlysilvercrow/f1_website](https://github.com/onlysilvercrow/f1_website) | [https://ambitious-pebble-02008e903.2.azurestaticapps.net/](https://ambitious-pebble-02008e903.2.azurestaticapps.net/) |
 | F1 Website Backend| [https://github.com/onlysilvercrow/azure-functions-backend](https://github.com/onlysilvercrow/azure-functions-backend) | [https://ambitious-pebble-02008e903.2.azurestaticapps.net/](https://ambitious-pebble-02008e903.2.azurestaticapps.net/) |
 | Conversa API | [https://github.com/sahilpatel1906/Conversa_API](https://github.com/sahilpatel1906/Conversa_API) | N/A |
 | Blog App | [https://github.com/sahilpatel1906/Blog_Frontend](https://github.com/sahilpatel1906/Blog_Frontend) | N/A |
